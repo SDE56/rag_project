@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 license = { text = "MIT" }
 authors = [
-    { name = "Sourangshupal", email = "sourangshupal@gmail.com" }
+    { name = "Saurav Dwivedi", email = "dwivedi131.saurav@gmail.com" }
 ]
 keywords = ["rag", "qa", "fastapi", "langchain", "qdrant", "openai"]
 classifiers = [
